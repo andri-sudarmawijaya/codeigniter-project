@@ -1,19 +1,19 @@
 {
-    "name": "eihror/codeigniter-project",
+    "name": "andri-sudarmawijaya/codeigniter-project",
     "description": "Start any project with Codeigniter",
-    "type": "Development",
+    "type": "project",
     "minimum-stability": "stable",
     "version": "v0.0.6",
-    "homepage": "https://github.com/eihror/codeigniter-project",
+    "homepage": "https://github.com/andri-sudarmawijaya/codeigniter-project",
     "license": "MIT",
     "require": {
         "php": ">=5.5.9",
-        "codeigniter/framework": "^3.0",
+        "codeigniter/framework": "^3.1",
         "cocur/slugify": "^2.0",
-        "eihror/compress-image": "^0.0.4" 
+        "eihror/compress-image": "^0.0.4"
     },
     "require-dev": {
-        "mikey179/vfsStream": "^1.6"
+        "mikey179/vfsstream": "^1.6"
     },
     "authors": [
         {
