@@ -3,7 +3,7 @@
     "description": "Start any project with Codeigniter",
     "type": "project",
     "minimum-stability": "stable",
-    "version": "v0.0.6",
+    "version": "v0.0.6-alpha",
     "homepage": "https://github.com/andri-sudarmawijaya/codeigniter-project",
     "license": "MIT",
     "require": {
