@@ -2,7 +2,7 @@
     "name": "andri-sudarmawijaya/codeigniter-project",
     "description": "Start any project with Codeigniter",
     "type": "project",
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "version": "v0.0.6-alpha",
     "homepage": "https://github.com/andri-sudarmawijaya/codeigniter-project",
     "license": "MIT",
